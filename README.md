@@ -25,7 +25,7 @@
 
 ### ⚡ Sample‑Efficient Encoders for RL Agents on Atari Games (SOAI Labs)
 Designed and benchmarked a **PPO‑AutoEncoder** architecture with an auxiliary next‑frame prediction task against CNN, MobileViT + gated fusion, and CBAM baselines on MinAtar. Owned the full training/evaluation pipeline and presented results at the **AI Summit**.  
-📄 [Check out the research poster](https://drive.google.com/file/d/1ILfySE72liCGMxgz874u9tQad0AsAcKu/view?usp=drive_link)
+📄 [Check out the research poster]()
 
 ### 🧬 U‑Net from Scratch & Semantic Segmentation
 Implemented a **custom U‑Net in pure PyTorch** for road‑network segmentation, outperforming pretrained versions. Explored backbone architectures, loss functions (BCE, Dice, Focal), and augmentation strategies.  
@@ -63,7 +63,7 @@ My personal bank of notebooks, experiments, and notes covering everything from c
 
 ## 📬 Let’s Connect
 - 📧 [rayan.ouali.2007@gmail.com](mailto:rayan.ouali.2007@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/raoufouldali) (replace with your actual LinkedIn if different)  
+- 💼 [LinkedIn] 
 - 🧪 [GitHub](https://github.com/R4yAI)  
 
 > “Intelligence is the ability to adapt to change.” – Stephen Hawking  
